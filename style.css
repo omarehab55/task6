@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.nn{width: 100%;
+    top: 0;
+    z-index: 0;
+}
+.curv{
+    position: absolute;
+    top:500px ;
+    right: 200px;
+   z-index: 1;
+   margin-right: 15%;
+
+}
+.land{
+    z-index: 2;
+    position: absolute;
+    right: 100px;
+    top: 80px;
+    
+}
+.mask{
+    position: absolute;
+    z-index: 4;
+    right: 200px;
+top: 130px;
+}
+.clouds{
+    position: absolute;
+    z-index: 5;
+    right: 190px;
+    top: 380px;
+}
+.font{
+    position: absolute;
+    font-family:cursive;
+    z-index: 5;
+top: 270px;
+left: 200px;
+font-size: larger;
+}
+.left{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    z-index: 5;
+    margin-left: 50px;
+}
+.left a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    margin-top: 35px;
+font-family: cursive;
+}
+.left a:hover{
+    color: blueviolet;
+}
+.login{
+    position: absolute;
+    z-index: 3;
+    top:32px ;
+    right: 105px;
+}
+.right a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    z-index: 3;
+    top: 40px;
+    right: 140px;
+    font-size: larger;
+    font-family: cursive;
+}
+.right a:hover{
+    color: blueviolet;
+}
+.dl{
+    position: absolute;
+    top: 700px;
+    left: 400px;
+}
+.ph1{
+position: absolute;
+top: 750px;
+left: 280px;
+z-index: 5;
+font-family: cursive;
+}
+
+.ph2{
+    position: absolute;
+    top: 900px;
+    left: 680px;
+    z-index: 5;
+    font-family: cursive;
+}
+.ph3{
+    position: absolute;
+    top: 1150px;
+    left: 1040px;
+    z-index: 5;
+    font-family: cursive;
+}
+ .kud
+{
+    position: absolute;
+    top: 1050px;
+    left: 180px;
+} 
+  .kk{ position: absolute;
+    color: rgb(251, 252, 252);
+    font-family: sans-serif;
+    top: 1180px;
+    left: 260px;
+  }
+  .ww{position: absolute;
+    color: rgb(251, 252, 252);
+    font-family: sans-serif;
+    top: 1150px;
+    left: 240px;}
+    .center{
+        position: absolute;
+       right: 40%;
+        top: 1400px;
+    }
+    .right2{
+        position: absolute;
+        right: 20%;
+        top: 1500px;
+    }
+    .left2{
+        position: absolute;
+        left: 20%;
+        top: 1500px; 
+    }
+    .bb{
+        position: absolute;
+        top: 1750px;
+        left: 40%;
+        font-family: cursive;
+        font-size: large;
+    }
+    .bt img
+{
+    position: absolute;
+top: 1800px;
+left: 0px;
+margin-bottom: 0;
+right: 0px;
+bottom: 0px;
+}
+.ft{
+   position: absolute;
+    top: 1910px;
+    right: 10%;
+    z-index: 8;
+}
+.st{
+    position: absolute;
+    display: flex;
+    justify-content:space-between;
+    width: 20%;
+    top: 2150px;
+    left: 130px;
+    border-radius: 50px;
+}
+.ss{
+    position: absolute;
+display: flex;
+justify-content: space-between;
+top: 2150px;
+left: 130px;
+font-family: cursive;
+font-size: medium;
+margin: 20px;
+}
+.ww{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 2150px;
+    left: 280px;
+    font-family: cursive;
+    font-size: medium;
+    margin: 20px;
+    color: black;
+}
+.icon2{ position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 2250px;
+    left: 170px;
+    width: 10%;
+}
+.uu{
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    width: 30%;
+    top: 2320px;
+    left: 130px;
+
+}
+.uu a{
+    text-decoration: none;
+font-size: large;
+font-family: cursive;
+color: black;
+}
+.uu a:hover{
+    color: blueviolet;
+}
